@@ -1,7 +1,13 @@
 .yellow {
     background-color: yellow;
+    height: 20rem;
+    width: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .blue {
     color: blue;
+    font-style:italic;
 }
